@@ -17,5 +17,5 @@
 
 * Clone the repo
 * `npm i`
-* `react-native run ios/android`
+* `react-native run-ios/android`
 * Check the code :)
